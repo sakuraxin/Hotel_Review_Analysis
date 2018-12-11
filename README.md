@@ -42,7 +42,7 @@ also available [Hotel_Reviews](https://drive.google.com/file/d/1U2ktXTsFn0GRaan1
     
     1.2 Download "stop_words.txt" in **data** folder in the same folder.
     
-    (Optional-these two optional large files are generated in "data_process.ipynb")
+    (1.3 and 1.4 are **Optional**-these two optional large files are generated in "data_process.ipynb")
     
     1.3 Download "Filling_nans" pickle file from [Filling_nans](https://drive.google.com/file/d/1w-Mkkqi0js0v_f0JnPI1mWQByadL75xN/view?usp=sharing). 
     
