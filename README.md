@@ -8,7 +8,7 @@ sentiment analysis.
 ## About the data
 
 The original dataset is available [515K-hotel-reviews](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe),
-also available [Hotel_Reviews](https://drive.google.com/file/d/1U2ktXTsFn0GRaan1_LpyYGIH-9EYS-4c/view?usp=sharing). 
+also available [Hotel_Reviews.csv](https://drive.google.com/file/d/1U2ktXTsFn0GRaan1_LpyYGIH-9EYS-4c/view?usp=sharing). 
 
 ## Prerequistes
 
