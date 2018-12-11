@@ -8,7 +8,7 @@ sentiment analysis.
 ## About the data
 
 The original dataset is available [515K-hotel-reviews](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe),
-also available under **/data/Hotel_Reviews.csv**. 
+also available [Hotel_Reviews](https://drive.google.com/file/d/1U2ktXTsFn0GRaan1_LpyYGIH-9EYS-4c/view?usp=sharing). 
 
 ## Prerequistes
 
@@ -36,13 +36,28 @@ also available under **/data/Hotel_Reviews.csv**.
     
 ## How to run
 
-1. Download all the files in **data** folder to a local folder. 
+1. Download **data** file. 
+
+    1.1 Download the original dataset [Hotel_Reviews](https://drive.google.com/file/d/1U2ktXTsFn0GRaan1_LpyYGIH-9EYS-4c/view?usp=sharing) to a local folder. 
+    
+    1.2 Download "stop_words.txt" in **data** folder in the same folder.
+    
+    (Optional-these two optional large files are generated in "data_process.ipynb")
+    
+    1.3 Download "Filling_nans" pickle file from [Filling_nans](https://drive.google.com/file/d/1w-Mkkqi0js0v_f0JnPI1mWQByadL75xN/view?usp=sharing). 
+    
+    1.4 Download "text_df" pickle file from [text_df](https://drive.google.com/file/d/1UkbWJI5VYrLBxkclNnUuBSDMNZemIswC/view?usp=sharing).
+    
 2. Download the 5 **.ipynb** files and save them in the same folder as all the data files stay in step 1. 
+
 3. Run **.ipynb** file as the follwong order: run **"data_process.ipynb"** first, then **"aspect_analysis_data_prcocess.ipynb"**, 
 thirdly **"aspect_analysis.ipynb"**, the last **"reviewer_score.ipynb"**. Open each .ipynb in Jupyter notebook, click run all 
 cells. It may take **long** time (sevral hours) to run "data_process.ipynb". 
-4. Since it takes long time to run all the cells, **test_case.ipynb** provides the three applications discussed in project 
-report (available under **/paper presentation/Project Report.pdf** with less time consuming. 
+Additional information: if skip running "data_process.ipynb", must download **"Filling_nans"** in **step 1.3**. 
+
+## Test case presentation
+Since it takes long time to run all the four mentioned .ipynb files, **test_case.ipynb** provides the three applications discussed in project report (available under **/paper presentation/Project Report.pdf** with less time consuming. Need to 
+download all the files in **data** folder first. Open **test_case.ipynb**, click run all. 
 
 ## Paper work
 
