@@ -38,7 +38,7 @@ also available [Hotel_Reviews.csv](https://drive.google.com/file/d/1U2ktXTsFn0GR
 
 1. Download **data** file. 
 
-    1.1 Download the original dataset [Hotel_Reviews](https://drive.google.com/file/d/1U2ktXTsFn0GRaan1_LpyYGIH-9EYS-4c/view?usp=sharing) to a local folder. 
+    1.1 Download the original dataset [Hotel_Reviews.csv](https://drive.google.com/file/d/1U2ktXTsFn0GRaan1_LpyYGIH-9EYS-4c/view?usp=sharing) to a local folder. 
     
     1.2 Download "stop_words.txt" in **data** folder in the same folder.
     
